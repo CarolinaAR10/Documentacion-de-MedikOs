@@ -106,17 +106,7 @@ El uso de un diagrama de Gantt en este contexto contribuye a la gestión efectiv
 ---
 
 ## Diseños de Figma  
-- ## **Paciente-Móvil**:  
-![MovilPaciente](img/Usuarios.png)
 
-- ## **Médico-Móvil**:  
-![MovilMedico](img/Medico.png)
-
-- ## **Admin-Web1**:  
-![adminweb1](img/web1.png)
-
-- ## **Admin-Web2**:  
-![adminweb2](img/web2.png)
 
 ---
 ## Conclusión
