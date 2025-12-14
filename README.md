@@ -106,7 +106,9 @@ El uso de un diagrama de Gantt en este contexto contribuye a la gestión efectiv
 ---
 
 ## Diseños de Figma  
+![Figma](img/diseñoFigma.jpeg)
 
+Link de [Figma](https://www.figma.com/design/KN4PBsKJxgbzOFJiglsSZU/Sin-t%C3%ADtulo?node-id=0-1&t=cBkzlPebkZ0MQykn-1)
 
 ---
 ## Conclusión
